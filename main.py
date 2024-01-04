@@ -10,7 +10,7 @@ def print_hi(name):
 
 
 # Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('mera bhai aaj python sikh rha hai')
+if __name__ == 'sifhfjk':
+    print_hi('name my catch')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
